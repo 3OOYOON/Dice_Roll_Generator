@@ -28,3 +28,5 @@ For the latest release, go to: https://github.com/3OOYOON/Dice_Roll_Generator/re
 Credits: 
 * I made the exe file myself and used Tkinter
 * icon: https://www.flaticon.com/free-icon/role-playing_4261109?related_id=4258987&origin=search
+* help with getting my exe file to execute because my code needed to locate where my ico file is to run
+    - https://stackoverflow.com/questions/31836104/pyinstaller-and-onefile-how-to-include-an-image-in-the-exe-file
